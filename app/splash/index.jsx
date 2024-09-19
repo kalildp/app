@@ -2,6 +2,7 @@ import React from "react";
 import { Text, View, Button, Image, StyleSheet } from 'react-native';
 import { LinearGradient } from "expo-linear-gradient";
 
+
 const style = StyleSheet.create ({
     container:{
     flex:1,
@@ -41,6 +42,8 @@ const splashScreen = function () {
     />
 
     </View>
+    
 }
+
 
 export default splashScreen
