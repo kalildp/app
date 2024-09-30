@@ -33,6 +33,10 @@ const router = function(){
         <Text>Sobre Mim</Text>
         </Link>
 
+        <Link href="/iFome">
+        <Text>iFome</Text>
+        </Link>
+
        </View>
     )
 
