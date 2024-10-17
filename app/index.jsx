@@ -37,6 +37,11 @@ const router = function(){
         <Text>iFome</Text>
         </Link>
 
+        <Link href="/memoria">
+        <Text>Memoria</Text>
+        </Link>
+
+
        </View>
     )
 
